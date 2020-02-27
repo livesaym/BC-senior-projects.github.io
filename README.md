@@ -1,3 +1,3 @@
-# csc426.github.io
-Sample website for CSC426 (Fall 2019).
-Used for learning Git and Github.
+# csc493.github.io
+Sample website for CSC493: Senior Projects
+Used for learning HTML, CSS, and JavaScript to make a personal website at Github pages
