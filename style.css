@@ -54,8 +54,8 @@ div.section {
 
 }
 
-/* If we want the divs with ids plan and more to look the same, we can put them together */
-#plan, #more {
+/* If we want the divs with different ids to look the same, we can put them together separated by a comma */
+#plan {
 	background: #005A8B; /* Change the color to looks like Berea Background */
 	color: black;
 	font: 'Source Sans Pro',Arial, Sans-Serif;
