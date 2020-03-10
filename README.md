@@ -1,3 +1,3 @@
-# csc493.github.io
-Sample website for CSC493: Senior Projects
-Used for learning HTML, CSS, and JavaScript to make a personal website at Github pages
+# livesaym.github.io
+My personal website I created for CSC493: Senior Projects
+Based off of the template provided by my professor, Jan Pearce
